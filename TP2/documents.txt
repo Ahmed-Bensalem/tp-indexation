@@ -1,0 +1,20 @@
+doc1: le chat dort dans la maison et regarde le jardin
+doc2: la maison est grande belle moderne et confortable
+doc3: le chien court dans le jardin avec le chat
+doc4: belle maison avec jardin et terrasse
+doc5: le chat joue dans la grande maison
+doc6: le chien dort dans la petite maison
+doc7: grande maison moderne avec jardin et garage
+doc8: le chat court dans le jardin et la terrasse
+doc9: belle terrasse dans une grande maison
+doc10: le chien joue avec le chat dans le jardin
+doc11: maison confortable avec une grande terrasse
+doc12: le jardin est grand et la maison est belle
+doc13: le chat dort dans une petite maison
+doc14: grande terrasse avec jardin et maison moderne
+doc15: belle maison avec un grand jardin
+doc16: le chien court autour de la maison et du jardin
+doc17: maison moderne avec terrasse et garage
+doc18: le chat joue dans le grand jardin
+doc19: belle grande maison avec jardin
+doc20: le chien dort dans la maison moderne
